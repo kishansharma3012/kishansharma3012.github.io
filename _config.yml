@@ -1,20 +1,20 @@
-title:            Laura’s Home
-description:      Welcome to Laura’s world!
+title:            Kishan’s Home
+description:      Welcome to Kishan’s world!
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              https://lealtaixe.github.io
-disqus_shortname: lealtaixe
+url:              https://kishansharma3012.github.io
+disqus_shortname: Kishan
 
 # Owner/author information
 owner:
-  name:           Laura Leal-Taixé
+  name:           Kishan Sharma
   avatar:         profile.jpg
-  bio:            I'm from the lively town of Barcelona! I am currently a tenure-track professor Munich, after spending some wonderful time in Zurich, Ann Arbor and Hannover. 
-  email:          leal.taixe@tum.de
+  bio:            I am from New Delhi, India. I am currently working on my Master Thesis at ETH Zurich, Photogrammetry and Remote Sensing Department.
+  email:          kishan.sharma@tum.de
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lealtaixe
-  linkedin: laura-leal-taixé-b0361b108
-  google_scholar: tT2TC-UAAAAJ
-  github: lealtaixe
+  twitter: kishan3012
+  linkedin: kishan-sharma-3012
+  #google_scholar: 
+  github: kishansharma3012
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80311021-1
 google_verify:
