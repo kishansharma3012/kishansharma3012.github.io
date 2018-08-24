@@ -22,7 +22,7 @@ image:
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
   <div style="text-align:center"><ul><li>I am pursuing <strong>M.Sc</strong> in Computational Science & Engineering from the <a href="http://www.tum.de">Technical University of Munich, Germany</a> </li>
-  
+  <br>
  <li> I studied the bachelors in Technology <strong>Mechanical Engineering</strong> at the <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India (UPC)</a>.</li> 
  
 </ul> </div>
@@ -34,7 +34,6 @@ image:
     </p>
   <div style="text-align:center"><ul><li>I am interested in Computer Vision, Machine Learning and Deep Learning, Deep Convolutional Neural Networks, object tracking and detection. </li>
     <br>
-
  <li> I have taken various courses on deep learning, machine learning, Computer vision, parallel programming and Numerical Prograaming tracking.</li> 
  
 </ul> </div>
@@ -54,7 +53,4 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
     
     <br><br>
 </section>
-
-    
-    
 You can also download my [full CV]({{ site.url }}/images/CV/LealTaixe-CV.pdf).
