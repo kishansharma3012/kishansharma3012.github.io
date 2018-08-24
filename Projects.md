@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /code/
-title: Project
-tags: [code]
+permalink: /Projects/
+title: Projects
+tags: [Projects]
 modified: 3-10-2014
 comments: false
 ---
