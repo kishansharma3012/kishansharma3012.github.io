@@ -1,6 +1,6 @@
 ---
-layout: index
-permalink: /index/
+layout: not_index
+permalink: /not_index/
 title: A bit more about me
 tags: [about]
 modified: 8-7-2014
