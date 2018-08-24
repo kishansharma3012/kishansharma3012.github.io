@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Work Experience/
+permalink: /Work_Experience/
 title: Work Experience
 tags: [Work Experience]
 modified: 3-10-2014
