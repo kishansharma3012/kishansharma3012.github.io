@@ -1,6 +1,6 @@
 ---
 layout: home2
-title: Latest news
+title: About Me
 description: "Kishan Sharma's website"
 tags: [Jekyll, theme, responsive, blog, template]
 image:
