@@ -32,26 +32,22 @@ comments: false
   <p align="center">
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I have a <strong>PhD</strong> in Computer Vision from the <a href="">Leibniz University Hannover</a> supervised by <a href="https://www.tnt.uni-hannover.de/staff/rosenhahn/">Prof. Bodo Rosenhahn</a>. </li>
-  <br>
-   <li> I went to Boston to do my <strong>Master Thesis</strong> at <a href="http://www.northeastern.edu/">Northeastern University</a>, and that is where my passion for Computer Vision started!</li>
-    <br>
-
- <li> I studied the bachelor and master in <strong>Telecommunications Engineering</strong> at the <a href="http://www.upc.edu/?set_language=en">Technical University of Catalonia (UPC)</a>.</li> 
+  <div style="text-align:center"><ul><li>I am pursuing <strong>M.Sc</strong> in Computational Science & Engineering from the <a href="http://www.tum.de">Technical University of Munich, Germany</a> </li>
+  
+ <li> I studied the bachelors in Technology <strong>Mechanical Engineering</strong> at the <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India (UPC)</a>.</li> 
  
 </ul> </div>
 
 <br>
 
   <p align="center">
-    <img src="{{ site.url }}/images/CV/pencil.png" alt="Research and teaching" width="70">
+    <img src="{{ site.url }}/images/CV/pencil.png" alt="Areas of Interest" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am interested in dynamic scene understanding, multiple object tracking, temporal deep learning and video analysis in general.</li>
-  <br>
-   <li> I like to code in MatLab and speed things up with some C++, though I am learning Python right now and I like it!</li>
+  <div style="text-align:center"><ul><li>I am interested in Computer Vision, Machine Learning and Deep Learning, Deep Convolutional Neural Networks, object tracking and detection. </li>
+
     <br>
 
- <li> I have taught courses on deep learning, tracking, network flows and organized practical courses on deep learning for computer vision, panorama stitching, structure-from motion.</li> 
+ <li> I have taken various courses on deep learning, machine learning, Computer vision, parallel programming and Numerical Prograaming tracking.</li> 
  
 </ul> </div>
 
@@ -62,16 +58,10 @@ comments: false
     <img src="{{ site.url }}/images/CV/languages.png" alt="Languages" width="70">
     </p>
   <div style="text-align:center"><ul>
-  El <strong>catal&agrave;</strong> &eacute;s la meva llengua materna. 
   <br>
 My <strong>english</strong> is hopefully awesome.
  <br>
- Tambi&eacute;n hablo <strong>espa&ntilde;ol</strong>.
-    <br>
-Mi piace anche parlare <strong>italiano</strong>.
- <br>
 Ich spreche ein bisschen <strong>Deutsch</strong>.
- 
 </ul> </div>
 
     
