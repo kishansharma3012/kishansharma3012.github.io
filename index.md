@@ -15,13 +15,14 @@ image:
   <div style="text-align:center"><ul>
   <li>I am working on my  <strong>Master Thesis </strong> at the <a href="https://www.ethz.ch/en.html" target="_blank">ETH Zurich</a> in Photogrammetry and Remote Sensing department</li>
   <br>
-  <li>I got Erasmus scholarship for my master thesis at ETH Zurich in Swiss European Mobility program 
+  <li>I got Erasmus scholarship for my master thesis at ETH Zurich in Swiss European Mobility program</li> 
   
   
-  <p align="center">
+    <p align="center">
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am pursuing <strong>M.Sc</strong> in Computational Science & Engineering from the <a href="http://www.tum.de">Technical University of Munich, Germany</a> </li>
+  <div style="text-align:center"><ul>
+  <li>I am pursuing <strong>M.Sc</strong> in Computational Science & Engineering from the <a href="http://www.tum.de">    Technical University of Munich, Germany</a> </li>
   <br>
  <li> I studied the bachelors in Technology <strong>Mechanical Engineering</strong> at the <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India (UPC)</a>.</li> 
  
