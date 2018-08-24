@@ -14,30 +14,22 @@ comments: false
 
 <img src="{{ site.url }}/images/contact/email.png" alt="Email" width="30"> <br><br>
 
-leal.taixe (at) tum.de
+kishan.sharma (at) tum.de
 
 <br>
 <br><br>
 
   <img src="{{ site.url }}/images/contact/location.png" alt="Location" width="30"> <br><br>
 
-Prof. Dr. Laura Leal-Taixe <br>
-Technical University Munich<br>
-Dynamic Vision and Learning Group, I09<br>
-Boltzmannstrasse 3<br>
- 85748 Garching<br>
- Germany<br>
+Kishan Sharma <br>
+WG 308, Sschröfelhofstraße 14<br>
+81375 München
+Germany<br>
  
 <br><br> 
 <img src="{{ site.url }}/images/contact/phone.png" alt="Phone" width="30"> <br><br>
 
-Tel: +49-89-289-17786<br>
-Fax: +49-89-289-17757<br>
-Office: 02.09.043<br>
- 
-  
-  
-
+Tel: +49-1578-132-6274<br>
     
     <br><br>
 </section>
