@@ -17,7 +17,6 @@ comments: false
   <li>I am working on my  <strong>Master Thesis </strong> at the <a href="https://www.ethz.ch/en.html" target="_blank">ETH Zurich</a> in Photogrammetry and Remote Sensing department</li>
   <br>
   <li>I got Erasmus scholarship for my master thesis at ETH Zurich in Swiss European Mobility program 
-  <br>
   
   
   <p align="center">
@@ -35,7 +34,6 @@ comments: false
     <img src="{{ site.url }}/images/CV/pencil.png" alt="Areas of Interest" width="70">
     </p>
   <div style="text-align:center"><ul><li>I am interested in Computer Vision, Machine Learning and Deep Learning, Deep Convolutional Neural Networks, object tracking and detection. </li>
-
     <br>
 
  <li> I have taken various courses on deep learning, machine learning, Computer vision, parallel programming and Numerical Prograaming tracking.</li> 
@@ -49,7 +47,6 @@ comments: false
     <img src="{{ site.url }}/images/CV/languages.png" alt="Languages" width="70">
     </p>
   <div style="text-align:center"><ul>
-  <br>
 My <strong>english</strong> is hopefully awesome.
  <br>
 Ich spreche ein bisschen <strong>Deutsch</strong>.
