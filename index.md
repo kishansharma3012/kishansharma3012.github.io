@@ -56,4 +56,4 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
     
     <br><br>
 </section>
-You can also download my [full CV]({{ site.url }}/images/CV/LealTaixe-CV.pdf).
+You can also download my [full CV]({{ site.url }}/images/CV/kishan-cv-18 (1).pdf).
