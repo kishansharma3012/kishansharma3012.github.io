@@ -1,8 +1,8 @@
 ---
-layout: Courses
-permalink: /Courses/
+layout: Page
+permalink: /Courses_Studied/
 title: Courses Studied
-tags: [Courses]
+tags: [Courses_Studied]
 modified: 8-7-2014
 comments: false
 ---
