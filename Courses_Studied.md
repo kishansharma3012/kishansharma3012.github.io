@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 permalink: /Courses_Studied/
 title: Courses Studied
 tags: [Courses_Studied]
