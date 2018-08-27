@@ -1,12 +1,33 @@
 ---
-layout: publications
-permalink: /publications/
-title: My Publications
-tags: [publications]
+layout: Courses
+permalink: /Courses/
+title: Courses Studied
+tags: [Courses]
 modified: 8-7-2014
 comments: false
 ---
 
-You can also browse my <a href="https://scholar.google.com/citations?user=tT2TC-UAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
+### Data Science
+- Machine Learning
+- Deep Learning for Computer Vision
+- Praktikum : Machine Learning in Medical Imaging
+- Seminar : Deep Generative Models
+- Advance Deep Learning for Physics
+- Tracking and Detection for Computer Vision
+- Mining Massive Datasets
 
+### Computer Science
+- Advance Programming
+- Fundamental Algorithm
+- Patterns in Software Engineering
+- Computer Architecture and Networks
+- Programming and Data Structures
+- Data Structure & Algorithm
+
+### Mathematics
+- Numerical Programming I
+- Numerical Programming II
+- Parallel Numerics
+- Linear Algebra 
+- Probability & Statistics
