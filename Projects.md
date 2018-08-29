@@ -11,19 +11,20 @@ comments: false
 
 
 ### Master Thesis: Image-based count and Size Determination of Fly Larvae for bio-waste conversion with Deep Learning
-## ETH Zurich, Switzerland (Jun. 2018 - PRESENT)
--Thesis aims to develop complete solution of automation of most laborious part of Bio-waste conversion by counting and estimating size of insect larvae.Prepared pixel-wise annotated labeled image dataset of fly larvae in MS-COCO style dataset format
--counting and size estimation by Detection : Implemented and compared state of the art Object detection algorithms, Faster RCNN, Mask RCNN, YOLO and SSD
--counting and size estimation by Histogram Prediction : Implemented fixed bin length and width ResNet-50  based regression model which predicts Histogram between larvae size and count (ResNet-50); developed learnable histogram layer based model (linear basis function); Novel learnable histogram layer model based on hierarchical basis function
+#### ETH Zurich, Switzerland (Jun. 2018 - PRESENT)
+- This thesis aims to develop complete solution of automation of most laborious part of Bio-waste conversion by counting and estimating size of insect larvae. Collected and Prepared pixel-wise annotated labeled image dataset of fly larvae in MS-COCO style dataset format
+- Detection based Approach : Implemented and compared state of the art Object detection algorithms, Faster RCNN, Mask RCNN, YOLO and SSD for given objective
+- Histogram based Approach 1: Implementing fixed bin length and width ResNet-50 based regression model which predicts Histogram betwee larvae size and count (ResNet-50)
+- Histogram based Approach 2 : Developing supervised and unsupervised learnable histogram layer based model (linear basis function); Novel learnable histogram layer model based on hierarchical basis function
 
 ### Detection and Tracking of Surgical Equipments
-## PRAKTIKUM : Machine Learning For Medical Imaging (Oct. 2017 - Feb. 2018)
+#### PRAKTIKUM : Machine Learning For Medical Imaging (Oct. 2017 - Feb. 2018)
 -Implemented U-Net and FCN architecture in Tensorflow for simultaneously detecting and estimating Laparoscopy surgical equipment pose using probability maps (joint locations) 
 for EndoVis challenge dataset
 -Achieved state of the art results for U-Net multiple tool pose estimation
 
 ### Autoencoding beyond Pixels using Learned Similarity metric
-## SEMINAR : Deep Generative Models
+#### SEMINAR : Deep Generative Models
 - Submitted a comprehensive report by Analysing , implementing and constructively criticizing
 the proposed methodology in the paper
 - Presented the paper explaining the proposed technique and fundamentals of Autoencoder,
@@ -44,13 +45,11 @@ VAE, GAN and compared the results
 - Constructed CNN closely following the LeNet architecture, implemented loss function as addition of triplet and pairs loss and trained network using Adam optimizer using Tensorflow
 - Implemented KNN search to evaluate the network, visualized feature descriptors in 3D space and plotted confusion matrix
 
-### Generation of Restraunt Review Sentences using Hidden Markov's Model
-- Preprocessing of Large Yelp Dataset: Detected the duplicate reviews using Locality Sensitive Hashing with Cosine Similarity and removed them; cleaned the data in the sparse matrix structure
-- Performed latent factor matrix factorisation using Alternating Optimisation and Gradient Descent(full-sweep and mini batch) for the recommendation of restaurant and compared their results
-
-### Restaurant Recommendation for Massive Yelp Dataset
-- Preprocessing of Large Yelp Dataset: Detected the duplicate reviews using Locality Sensitive Hashing with Cosine Similarity and removed them; cleaned the data in the sparse matrix structure
-- Performed latent factor matrix factorisation using Alternating Optimisation and Gradient Descent(full-sweep and mini batch) for the recommendation of restaurant and compared their results
+### Mining Massive Yelp Dataset
+- Restaurant Recommendation: Detected Duplicate reviews using Locality Sensitive Hashing with Cosine Similarity and removed them and preprocessed dataset; Performed latent factor matrix factorisation using Alternating Optimisation and Gradient Descent for the recommendation of restaurant and compared their results.
+- Restaurant Review Classification: Used HMM as a probabilistic generative model for text data; Trained two HMM for classifying a review into 1-star or 5-star using Baum-welch algorithm
+- Restaurant Ranking: Performed topic specific page rank on a directed weighted graph of restaurants; calculated standard page rank scores
+- Clustering Users: Performed spectral clustering on an undirected weighted graph of users based on reviews; Qualitatively evaluated results using ratio cut and normalized cut
 
 ### Image based Plant Disease Detection using Deep Learning
 - Performed classification task on the Plant Village Dataset to identify 26 diseases
