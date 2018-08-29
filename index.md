@@ -54,4 +54,4 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
     
     <br><br>
 </section>
-<hr align="center"> You can also download my [full CV]({{ site.url }}/images/CV/CV_Kishan_Sharma.pdf).</hr>
+ You can also download my [full CV]({{ site.url }}/images/CV/CV_Kishan_Sharma.pdf).
