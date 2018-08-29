@@ -12,7 +12,7 @@ comments: false
 
 
 ### PreciBake GmbH - Working Student at AI Department
-##### Munich, Germany (Aug. 2017 - PRESENT)
+<strong> Munich, Germany (Aug. 2017 - PRESENT) </strong>
 - Implemented object detection and tacker methods to count and classify anomalies
 - Modeled and performed Deep Learning approaches (RNN, CNN) to monitor baking
 processes including thickness of product and baking time estimation and  classification
