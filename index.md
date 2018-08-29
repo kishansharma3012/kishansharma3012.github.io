@@ -26,7 +26,7 @@ image:
   <div style="text-align:center"><ul>
   <li>Pursuing <strong>M.Sc</strong> in Computational Science & Engineering from the <a href="http://www.tum.de"> Technical University of Munich, Germany</a> </li>
   <br>
-  <li> Completed bachelors in Technology in<strong>Mechanical Engineering</strong> from <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India</a>.</li> 
+  <li>Completed bachelors in Technology in<strong>Mechanical Engineering</strong> from <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India</a>.</li> 
  
 </ul> </div>
 
@@ -53,4 +53,4 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
     
     <br><br>
 </section>
-You can also download my [full CV]({{ site.url }}/images/CV/kishan-cv-18 (1).pdf).
+You can also download my [full CV]({{ site.url }}/images/CV/CV_Kishan_Sharma.pdf).
