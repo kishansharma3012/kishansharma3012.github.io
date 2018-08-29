@@ -25,7 +25,7 @@ image:
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
   <div style="text-align:center"><ul>
-  <li>Pursuing <strong>M.Sc</strong> in Computational Science & Engineering from the <a href="http://www.tum.de"> Technical University of Munich, Germany</a> </li>
+  <li>Pursuing <strong>M.Sc</strong> in <strong>Computational Science & Engineering</strong> from the <a href="http://www.tum.de"> Technical University of Munich, Germany</a> </li>
   <br>
   <li>Completed bachelors in Technology in<strong>Mechanical Engineering</strong> from <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India</a>.</li> 
  
