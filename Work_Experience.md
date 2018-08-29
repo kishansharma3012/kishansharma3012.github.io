@@ -11,7 +11,7 @@ comments: false
 
 
 
-#### PreciBake GmbH - Working Student at AI Department
+### PreciBake GmbH - Working Student at AI Department
 <strong> Munich, Germany (Aug. 2017 - PRESENT) </strong>
 - Implemented object detection and tacker methods to count and classify anomalies
 - Modeled and performed Deep Learning approaches (RNN, CNN) to monitor baking
@@ -19,12 +19,12 @@ processes including thickness of product and baking time estimation and  classif
 - Südback 2017: Collected, Cleaned and Pre-processed data for product placed inside and outside of the oven and further trained deep learning models for recipe prediction for smart ovens
 
 
-#### AeroSpace Department, IISC Bangalore
+### AeroSpace Department, IISC Bangalore
 <strong> Project Assistant at Flow Physics Computation & Analysis Lab (May. 2016 - July. 2016) </strong>
 - Implemented N.Sugimoto’s paper on Thermoacoustic-wave equation for gas in channel and a tube subject to temperature gradient under supervision of Dr. Arnab Samanta
 - Developed and executed scripts for numerical solution of approximated Thermoacoustic wave equation in MATLAB
 
-#### Havells India Limited
+### Havells India Limited
 <strong> Graduate Engineer Trainee at Center of Research & Innovation (June. 2015 - Feb. 2016) </strong>
 - Initiated and incorporated CFD analysis of ceiling fan in product development cycle and performed CFD analysis of various ceiling fan using Spalart-Allmaras turbulence model
 - Generated detailed manufacturing-ready drawings (geometric tolerances, surface finish etc.), assembly drawings, 3D CAD model etc.
