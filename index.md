@@ -35,7 +35,7 @@ image:
   <p align="center">
     <img src="{{ site.url }}/images/CV/pencil.png" alt="Areas of Interest" width="70">
     </p>
-  <div style="text-align:center"><ul><li>I am interested in Computer Vision and Machine Learning. </li>
+  <div style="text-align:center"><ul>I am interested in Computer Vision and Machine Learning.
 </ul> </div>
 
 
