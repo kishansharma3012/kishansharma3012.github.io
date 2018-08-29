@@ -19,9 +19,8 @@ comments: false
 
 ### Detection and Tracking of Surgical Equipments
 #### PRAKTIKUM : Machine Learning For Medical Imaging (Oct. 2017 - Feb. 2018)
--Implemented U-Net and FCN architecture in Tensorflow for simultaneously detecting and estimating Laparoscopy surgical equipment pose using probability maps (joint locations) 
-for EndoVis challenge dataset
--Achieved state of the art results for U-Net multiple tool pose estimation
+- Implemented U-Net and FCN architecture in Tensorflow for simultaneously detecting and estimating Laparoscopy surgical equipment pose using probability maps (joint locations) for EndoVis challenge dataset
+- Achieved state of the art results for U-Net multiple tool pose estimation
 
 ### Autoencoding beyond Pixels using Learned Similarity metric
 #### SEMINAR : Deep Generative Models
