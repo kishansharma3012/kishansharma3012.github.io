@@ -55,3 +55,5 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
     <br><br>
 </section>
  You can also download my [full CV]({{ site.url }}/images/CV/CV_Kishan_Sharma.pdf).
+ <a href='https://freehitcounters.org/'> Visitor Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=fd408ada772e8e5aea6e115215f4c5fb603de5fe'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/409843/t/9"></script>
