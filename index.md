@@ -54,5 +54,5 @@ Ich spreche ein bisschen <strong>Deutsch</strong>.
     
     <br><br>
 </section>
- You can also download my [full CV]({{ site.url }}/images/CV/CV_Kishan_Sharma.pdf).
+ You can also download my [full CV]({{ site.url }}/images/CV/CV_KISHAN.pdf).
 
