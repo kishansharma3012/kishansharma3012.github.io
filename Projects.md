@@ -50,7 +50,7 @@ VAE, GAN and compared the results
 - Evaluated the network on test images by implemented K- nearest neighbour search in descriptor space of training images to find object class and pose for the object present in test images.Visualized feature descriptors in 3D space and plotted confusion matrix
  
 ### Mining Massive Yelp Dataset
-   #### Restaurant Recommendation
+####Restaurant Recommendation
 - The aim of this task was to recommend restaurants to users based on the rating data in the massive Yelp dataset and predict the rating a user will give to a restaurant they have not been to yet based on a latent factor model.
 - Preprocessed data by detecting duplicate reviews using Locality Sensitive Hashing with Cosine Similarity and removed them 
 - Performed latent factor matrix factorisation using A = P\*Q matrix factorization as the latent factor model where A is the matrix containing all users and reviews while P and Q are unknownusing Alternating Optimisation and Gradient Descent for the recommendation of restaurant and compared their results.
