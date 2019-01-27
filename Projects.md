@@ -50,7 +50,7 @@ VAE, GAN and compared the results
 - Evaluated the network on test images by implemented K- nearest neighbour search in descriptor space of training images to find object class and pose for the object present in test images.Visualized feature descriptors in 3D space and plotted confusion matrix
  
 ### Mining Massive Yelp Dataset
-#### Restaurant Recommendation
+   #### Restaurant Recommendation
 - The aim of this task was to recommend restaurants to users based on the rating data in the massive Yelp dataset and predict the rating a user will give to a restaurant they have not been to yet based on a latent factor model.
 - Preprocessed data by detecting duplicate reviews using Locality Sensitive Hashing with Cosine Similarity and removed them 
 - Performed latent factor matrix factorisation using A = P\*Q matrix factorization as the latent factor model where A is the matrix containing all users and reviews while P and Q are unknownusing Alternating Optimisation and Gradient Descent for the recommendation of restaurant and compared their results.
@@ -62,7 +62,6 @@ VAE, GAN and compared the results
 #### Restaurant Ranking 
 - The aim of this project was to rank restaurants with the help of the PageRank algorithm using a directed weighted graph where each node represents one restaurant and  edges in this graph were based on users reviews.
 -  Further extension was done to implement a topic-specific PageRank algorithm to find the top-ranked restaurants in a pre-defined topic/category by calculating standard page rank scores, like Mexican or Chinese, while a restaurant can have multiple topics/categories assigned to it.
-
 #### Clustering Users
 - The aim of this project was to cluster users using spectral clustraing on an undirected weighted graph of users based on reviews
 - Qualitatively evaluated results using ratio cut and normalized cut
