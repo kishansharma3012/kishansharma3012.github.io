@@ -19,6 +19,7 @@ comments: false
 - Implemented UNet architecture to extract tray regions from video; Performed object detection to count and track buns moving on conveyor belt using semantic segmentation (SegNet)
 - Exploited temporal patterns with Deep Recurrent Neural Networks (GRU) for the estimation of thickness of the product, baking time estimation and product recognition using input video data and sensor data as in intermediate input; Compared the result with Multiple input CNN
 - Collected cleaned and pre processed various type of data (i.e videos , images, time series sensor data); Analysed sensitivity of multiple sensor data on the performance of model prediction to reduce the product cost
+
 ### AeroSpace Department, IISC Bangalore
 <strong> Project Assistant at Flow Physics Computation & Analysis Lab (May. 2016 - July. 2016) </strong>
 - Implemented N.Sugimoto’s paper on Thermoacoustic-wave equation for gas in channel and a tube subject to temperature gradient under supervision of Dr. Arnab Samanta
