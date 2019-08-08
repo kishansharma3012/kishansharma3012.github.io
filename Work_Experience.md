@@ -9,15 +9,15 @@ comments: false
 
 ### Student Assistant at Dynamic Vision & Learning Group, TU Munich
 <strong> SUPERVISOR: PROF. LAURA LEAL-TAIXE, DR. JAN DIRK WEGNER (ETH ZURICH) </strong>
-<strong> Munich, Germany (Dec. 2018 - PRESENT) </strong>
-- Applying developed method in Master Thesis on Breast Cancer Dataset to improve cellularity score prediction using count and histogram prediction as intermediate results
-- Extending Master Thesis work to submit in computer vision conference
+<strong> Munich, Germany (Dec. 2018 - Mar. 2019) </strong>
+- Applied methods developed during master thesis on Breast Cancer Dataset to predict count and size histogram of malignant cancer cells
+- Fine-tuned our model using object count and size histogram as intermediated results and improved cellularity score prediction
+- Submitted a research paper, ”HistoNet-Predicting size histograms of object instances” in a Computer Vision conference
 
 ### PreciBake GmbH - Working Student at AI Department
-<strong> Munich, Germany (Aug. 2017 - PRESENT) </strong>
+<strong> Munich, Germany (Aug. 2017 - May. 2018) </strong>
 - Modeled and trained Deep Learning architecture for predicting tray motion, tray level and for classifying product from outside and inside of the oven for automatic baking program selection
-- Implemented UNet architecture to extract tray regions from video; Performed object detection to count and track buns moving on conveyor belt using semantic segmentation (SegNet)
-- Exploited temporal patterns with Deep Recurrent Neural Networks (GRU) for the estimation of thickness of the product, baking time estimation and product recognition using input video data and sensor data as in intermediate input; Compared the result with Multiple input CNN
+- Exploited temporal patterns with Deep Recurrent Neural Networks (GRU) for the estimation of thickness of the product, baking time estimation and product recognition using input video data and sensor data as in intermediate input
 - Collected cleaned and pre processed various type of data (i.e videos , images, time series sensor data); Analysed sensitivity of multiple sensor data on the performance of model prediction to reduce the product cost
 
 ### AeroSpace Department, IISC Bangalore
