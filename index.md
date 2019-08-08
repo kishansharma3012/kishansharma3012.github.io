@@ -13,7 +13,9 @@ image:
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
   <div style="text-align:center"><ul>
-  <li> Submitted Master thesis work in ICCV 2019 conference </li> 
+  <li> Completed M.Sc in Computational Science & Engineering from Technical University of Munich
+  <li> I am awarded with maximum grade 1.0 for my Master Thesis work
+  <li> Submitted Master thesis work in WACV 2019 conference </li> 
   <li> Started working at Dynamic vision and Learning group at TU Munich as student assistant to extend Master thesis work </li> 
   <li> Working on my <strong>Master Thesis : Counting and Size Determination of Fly Larvae using Deep Learning  </strong> at <a href="https://www.ethz.ch/en.html" target="_blank">ETH Zurich</a> under the supervision of <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=186562" target="_blank"> Dr. Jan Dirk Wegner </a>
 (ETH Zurich) and  <a href="https://dvl.in.tum.de/team/lealtaixe/" target="_blank">Prof. Dr. Laura Leal-Taixe </a>(TUM). </li>
