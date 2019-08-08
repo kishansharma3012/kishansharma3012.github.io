@@ -11,7 +11,7 @@ comments: false
 
 
 ### Master Thesis: Image-based count and Size Determination of Fly Larvae
-#### ETH Zurich, Switzerland (Jun. 2018 - PRESENT)
+#### ETH Zurich, Switzerland (Jun. 2018 - Dec. 2018)
 - This thesis aims to develop complete solution of automation of most laborious part of Bio-waste conversion by counting and estimating size of insect larvae. Collected and Prepared pixel-wise annotated image dataset of fly larvae in MS-COCO style dataset format
 - Implemented Mask RCNN algorithm for given objective and compared the population estimation result with CountCeption (Yoshua Bengio et al.) fully convolutional Network using redundant count map labels
 - Developed novel approach for simultaneously predicting object count and size distribution histogram using CountCeption and ResNet network. 
