@@ -14,24 +14,9 @@ comments: false
 
 <img src="{{ site.url }}/images/contact/email.png" alt="Email" width="30"> <br><br>
 
-kishan.sharma (at) tum.de
-
+kishan.sharma3012 (at) gmail.com
 <br>
-<br><br>
-
-  <img src="{{ site.url }}/images/contact/location.png" alt="Location" width="30"> <br><br>
-
-Kishan Sharma <br>
-WG 308, Sschröfelhofstraße 14<br>
-81375 München
-Germany<br>
- 
-<br><br> 
-<img src="{{ site.url }}/images/contact/phone.png" alt="Phone" width="30"> <br><br>
-
-Tel: +49-1578-132-6274<br>
     
-    <br><br>
 </section>
 
     
