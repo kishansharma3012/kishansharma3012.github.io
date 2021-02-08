@@ -6,6 +6,13 @@ tags: [Work Experience]
 modified: 3-10-2014
 comments: false
 ---
+### Research Associate, Automotive Services and Communication Technologies
+<strong> Fraunhofer Fokus </strong>
+<strong> Berlin, Germany (Nov. 2019 - Present) </strong>
+- Developing perception algorithms for self-driving vehicles using Lidar and Image data
+- Building deep learning models for 2D/3D object detection of traffic participants, lane and road marking detection, traffic sign detection
+- Working on perception algorithms for autonomous shuttle <a href="https://www.fokus.fraunhofer.de/asct/shuttlesco" target="_blank">Shuttles&Co</a>, and reconfigurable hardware platform and associated software framework for autonomous driving chip project <a href="https://www.fokus.fraunhofer.de/de/asct/projekte/ki-flex" target="_blank">KI-FLEX</a>
+- Supervising a master thesis student for Deep learning based motion forecasting, supervised 11 students for 5 group projects (pole \& building facade detection using point cloud, multi object tracking and segmentation) 
 
 ### Student Assistant at Dynamic Vision & Learning Group, TU Munich
 <strong> SUPERVISOR: PROF. LAURA LEAL-TAIXE, DR. JAN DIRK WEGNER (ETH ZURICH) </strong>
