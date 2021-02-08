@@ -12,26 +12,24 @@ image:
     <p align="center">
     <img src="{{ site.url }}/images/CV/job.png" alt="Work Experience"  width="70">
     </p>
-  <div style="text-align:center"><ul>
-  <li> Completed M.Sc in Computational Science & Engineering from Technical University of Munich
-  <li> I am awarded with maximum grade 1.0 for my Master Thesis work
-  <li> Submitted Master thesis work in WACV 2019 conference </li> 
-  <li> Started working at Dynamic vision and Learning group at TU Munich as student assistant to extend Master thesis work </li> 
-  <li> Working on my <strong>Master Thesis : Counting and Size Determination of Fly Larvae using Deep Learning  </strong> at <a href="https://www.ethz.ch/en.html" target="_blank">ETH Zurich</a> under the supervision of <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=186562" target="_blank"> Dr. Jan Dirk Wegner </a>
+  <div style="text-align:left"><ul>
+  <li> Jul 2019: Completed M.Sc in Computational Science & Engineering from Technical University of Munich
+  <li> Jul 2019: Awarded with maximum grade 1.0 for my Master Thesis work
+  <li> Dec 2019: Started working at Dynamic vision and Learning group at TU Munich as student assistant to extend Master thesis work </li> 
+  <li> May 2018: Started working on my <strong>Master Thesis : Counting and Size Determination of Fly Larvae using Deep Learning  </strong> at <a href="https://www.ethz.ch/en.html" target="_blank">ETH Zurich</a> under the supervision of <a href="http://www.prs.igp.ethz.ch/content/specialinterest/baug/institute-igp/photogrammetry-and-remote-sensing/en/group/people/person-detail.html?persid=186562" target="_blank"> Dr. Jan Dirk Wegner </a>
 (ETH Zurich) and  <a href="https://dvl.in.tum.de/team/lealtaixe/" target="_blank">Prof. Dr. Laura Leal-Taixe </a>(TUM). </li>
   <br>
-  <li>Awarded Erasmus scholarship for my master thesis at ETH Zurich in Swiss European Mobility program</li> 
-  </ul></div>
+  <li>April 2018: Awarded Erasmus scholarship for my master thesis at ETH Zurich in Swiss European Mobility program</li> 
   <br>
 
   
     <p align="center">
     <img src="{{ site.url }}/images/CV/education.png" alt="Education" width="70">
     </p>
-  <div style="text-align:center"><ul>
-  <li>Pursuing <strong>M.Sc</strong> in <strong>Computational Science & Engineering</strong> from the <a href="http://www.tum.de"> Technical University of Munich, Germany</a> </li>
+  <div style="text-align:left"><ul>
+  <li>October 2016: Pursuing <strong>M.Sc</strong> in <strong>Computational Science & Engineering</strong> from the <a href="http://www.tum.de"> Technical University of Munich, Germany</a> </li>
   <br>
-  <li>Completed bachelors in Technology in<strong>Mechanical Engineering</strong> from <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India</a>.</li> 
+  <li>May 2015: Completed bachelors in Technology in<strong>Mechanical Engineering</strong> from <a href="http://www.iitj.ac.in">Indian Institute of Technology, Jodhpur, India</a>.</li> 
  
 </ul> </div>
 
