@@ -16,10 +16,8 @@ I did M.Sc in Computational Science and Engineering with focus on Computer visio
 
 Interests: Music, Dance, Playing FIFA, and supporting FC Barcelona
 
+You can also download my [full CV]({{ site.url }}/images/CV/CV_KISHAN.pdf).
+
 </ul> </div>
-
-
-
 </section>
- You can also download my [full CV]({{ site.url }}/images/CV/CV_KISHAN.pdf).
 
